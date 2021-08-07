@@ -23,33 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a7c5296-aaa7-40df-bb52-b40b6fc24d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CustomPartitioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/consumers/MyAsyncCommitConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/consumers/MyAsyncWithCallbackCommitConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/consumers/MyAutoCommitConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/consumers/MyMixSyncAndAsyncCommitConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/consumers/MySyncCommitConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/producers/MyProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/CustomPartitioner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/consumers/MyAsyncCommitConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/consumers/MyAsyncWithCallbackCommitConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/consumers/MyAutoCommitConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/consumers/MyMixSyncAndAsyncCommitConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/consumers/MySyncCommitConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/producers/MyProducer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/producers/MyProducer$MyProducerCallBack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/learn/producers/MyProducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnKafka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnKafka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
